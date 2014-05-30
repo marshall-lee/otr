@@ -1,0 +1,8 @@
+.autotest
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+lib/otr.rb
+test/test_otr.rb
+test/test_alice_and_bob.rb
